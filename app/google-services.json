@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244705356115",
+    "project_id": "chat-app-fce32",
+    "storage_bucket": "chat-app-fce32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244705356115:android:890de41fcc55945f3899a6",
+        "android_client_info": {
+          "package_name": "roi.com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244705356115-sbr7rted10rjkv63apvdv90odgkkrncf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAZgkB4djzKsK6FEV1kVpKQHI6gqHrvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244705356115-sbr7rted10rjkv63apvdv90odgkkrncf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
